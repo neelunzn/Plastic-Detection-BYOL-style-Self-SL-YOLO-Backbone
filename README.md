@@ -48,3 +48,7 @@
 
 ---
 
+Here are the Kaggle link of Plastic Detection BYOL-style SSL using YOLOv10, YOLOv11, and YOLOv12 backbone: 
+https://www.kaggle.com/code/neelunzn/plastic-detection-byol-style-self-sl-yolov10s
+https://www.kaggle.com/code/neelunzn/plastic-detection-byol-style-self-sl-yolov11s
+https://www.kaggle.com/code/neelunzn/plastic-detection-byol-style-self-sl-yolov12s
